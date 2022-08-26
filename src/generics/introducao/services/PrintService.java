@@ -10,6 +10,8 @@ public class PrintService<T> {
         list.add(value);
     }
 
+    //Se nao quisesse colocar o generics na linha 6, poderia colocar por exemplo no metodo abaixo
+    //assim: public <T> T first() {...}, delimitando o generics
     public T first() {
         if (list.isEmpty()) {
             throw new IllegalStateException("List is empty");
