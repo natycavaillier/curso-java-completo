@@ -1,4 +1,4 @@
-package progFuncionalAndLambda.pipeline.application;
+package progFuncionalAndLambda.stream.pipeline.application;
 
 import java.util.Arrays;
 import java.util.List;

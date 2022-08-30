@@ -1,4 +1,4 @@
-package progFuncionalAndLambda.stream.application;
+package progFuncionalAndLambda.stream.teoria.application;
 
 import java.util.Arrays;
 import java.util.List;
