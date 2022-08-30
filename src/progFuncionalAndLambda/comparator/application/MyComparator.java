@@ -4,6 +4,9 @@ import java.util.Comparator;
 
 import progFuncionalAndLambda.comparator.entities.Product;
 
+//Interface Funcional:
+//Interface que possui um único método abstrato
+//Suas implementações serão tratadas como expressões lambda (Opção 1 da classe Program)
 public class MyComparator implements Comparator<Product>{
 
     //Assim como o Comparable
